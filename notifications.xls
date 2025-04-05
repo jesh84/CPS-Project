@@ -1,0 +1,11 @@
+sender_type,sender_name,recipient_type,recipient,message,timestamp
+student,Jayant Lodhi,Admin,All,hii,2024-12-05 16:10:58
+mess admin,Akshat Ajay,student,All,kadamba non-veg is not available untill further notice,2024-12-05 18:46:42
+student,Medari Vikas,Student,Jayant Lodhi,Hello Jayant,2024-12-05 19:07:58
+student,Jayant Lodhi,Student,All,Hello friends,2024-12-05 19:10:00
+student,Medari Vikas,Student,Jayant Lodhi,Hello Jayant,2024-12-05 19:43:09
+student,Medari Vikas,all,All,Hello people,2024-12-05 19:59:46
+student,Medari Vikas,mess admin,All,good management,2024-12-06 01:12:43
+mess staff,Thakkasila Jaswanth,mess admin,Akshat Ajay,"hi,Mess admin",2024-12-06 03:31:12
+student,Medari Vikas,mess staff,Thakkasila Jaswanth,Hi,2024-12-06 11:51:11
+mess staff,Thakkasila Jaswanth,mess admin,Akshat Ajay,send rice for lunch,2024-12-06 11:54:45
